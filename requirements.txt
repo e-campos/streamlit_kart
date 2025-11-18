@@ -1,3 +1,3 @@
 streamlit
 pandas
-plotly.express as px
+plotly
